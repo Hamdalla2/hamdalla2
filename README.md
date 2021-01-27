@@ -46,9 +46,8 @@
 <img src="https://i.imgur.com/DebnlRF.png"  width="30px" height="30px" ></img>
 <img src="https://i.imgur.com/xgA8wZV.png"  width="30px" height="30px" ></img>
 <img src="https://i.imgur.com/Fa99T1d.png"  width="30px" height="30px" ></img>
-<img src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png"  width="30px" height="30px" ></img>
-<img src="https://cdn.iconscout.com/icon/free/png-512/stripe-2-498440.png"  width="30px" height="30px" ></img>
 </p>
 <hr>
-
+<p align="center">
 ✨🔭🌱👯🤔 💬 📫 😄 ⚡
+</p>
