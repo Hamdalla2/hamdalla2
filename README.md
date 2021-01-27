@@ -19,7 +19,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfh0VmHkafOJ0l3uWTOlQen7rtCUWucOmm0w&usqp=CAU"  width="30px" height="30px" ></img>
 <img src="https://i.imgur.com/5Q5BhxP.png"  width="30px" height="30px" ></img>
 <img src="https://i.imgur.com/WrOKPRk.png"  width="30px" height="30px" ></img>
-<img src="https://i.imgur.com/rB9nqvD.png"  width="30px" height="30px" ></img>
 <img src="https://i.imgur.com/2ltrCrS.png"  width="30px" height="30px" ></img>
 <img src="https://i.imgur.com/EHnE1Qc.png"  width="30px" height="30px" ></img>
 <img src="https://i.imgur.com/qFQHrf8.png"  width="30px" height="30px" ></img>
@@ -29,7 +28,6 @@
 <img src="https://i.imgur.com/tYPleps.png"  width="30px" height="30px" ></img>
 <img src="https://i.imgur.com/PSXeVMv.jpg"  width="30px" height="30px" ></img>
 <img src="https://i.imgur.com/kk1H10U.png"  width="30px" height="30px" ></img>
-<img src="https://i.imgur.com/y23YJGp.png"  width="30px" height="30px" ></img>
 <img src="https://i.imgur.com/e5mpI2E.png"  width="30px" height="30px" ></img>
 <img src="https://i.imgur.com/Q5Ra0JT.png"  width="30px" height="30px" ></img>
 <img src="https://i.imgur.com/xtCbXda.png"  width="30px" height="30px" ></img>
