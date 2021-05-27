@@ -44,5 +44,7 @@
 ✨🔭🌱👯🤔 💬 📫 😄 ⚡
 </p>
 <hr>
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamdalla2&show_icons=true&locale=en" alt="hamdallah fatayer" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamdalla2&" alt="hamdallah fatayer" />
+</p>
