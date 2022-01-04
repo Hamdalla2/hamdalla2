@@ -22,7 +22,6 @@
 <img src="https://i.imgur.com/2ltrCrS.png"  width="30px" height="30px" ></img>
 <img src="https://i.imgur.com/EHnE1Qc.png"  width="30px" height="30px" ></img>
 <img src="https://i.imgur.com/qFQHrf8.png"  width="30px" height="30px" ></img>
-<img src="https://i.imgur.com/xNJswrQ.png"  width="30px" height="30px" ></img>
 <img src="https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2019/07/Screen-Shot-2018-10-11-at-1.40.06-PM.png?fit=1016%2C1034&ssl=1"  width="30px" height="30px" ></img>
 <img src="https://i.imgur.com/16ezo9A.png"  width="30px" height="30px" ></img>
 <img src="https://i.imgur.com/tYPleps.png"  width="30px" height="30px" ></img>
