@@ -1,4 +1,5 @@
-<h1 align="center">Hey, I'm Hamdallah Fatayer 👋</h1>............................................<hr>...
+<h1 align="center">Hey, I'm Hamdallah Fatayer 👋</h1>............................................
+<hr>
 <p align="center">
 <a href="mailto:hamdalla9@gmail.com"><img src="https://i.imgur.com/sCJuAIP.png"  width="30px" height="30px"></img></a>
 <a href="mailto:hamdalla2@hotmail.com"><img src="https://i.imgur.com/8L6Okpv.png"  width="30px" height="30px"></img></a>
